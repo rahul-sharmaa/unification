@@ -11,7 +11,7 @@ Datasets
 
 ## Datasets
 
-Two sample datasets ([UDS1.XLS](datasets/UDS1.XLS)) and ([UDS2.XLS](datasets/UDS2.XLS)) are given in the repository, however, an Oracle database can also be configured with the application.
+Two sample datasets ([UDS1.xlsx](datasets/UDS1.xlsx)) and ([UDS2.xlsx](datasets/UDS2.xlsx)) are given in the repository, however, an Oracle database can also be configured with the application.
 
 ## Disclaimer
 
