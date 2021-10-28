@@ -1,4 +1,4 @@
-# Towards Unification of Decision SupportTechnologies: Statistical Reasoning,OLAP and Association Rule Mining
+# Towards Unification of Decision Support Technologies: Statistical Reasoning, OLAP and Association Rule Mining
 ## Sample decision support tool based on the framework for the Unification of SR, OLPA and ARM
 ## How to install the proposed tool?
 In order to install this tool please follow to the following steps:
