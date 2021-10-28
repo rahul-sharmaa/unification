@@ -1,5 +1,5 @@
 # Towards Unification of Decision SupportTechnologies: Statistical Reasoning,OLAP and Association Rule Mining
-# Framework for the Unification of SR, OLPA and ARM
+## Framework for the Unification of SR, OLPA and ARM
 
 ## How to install this framework?
 In order to install this framework please follow to the following steps:
