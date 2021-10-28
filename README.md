@@ -1,9 +1,7 @@
 # Towards Unification of Decision SupportTechnologies: Statistical Reasoning,OLAP and Association Rule Mining
-## Framework for the Unification of SR, OLPA and ARM
-
-## How to install this framework?
-In order to install this framework please follow to the following steps:
-
+## Sample decision support tool based on the framework for the Unification of SR, OLPA and ARM
+## How to install the proposed tool?
+In order to install this tool please follow to the following steps:
 * Configure Internet Information System (IIS) in a Windows system
 * Download or clone the code and host it on the Localhost
 * Test the connection, whether the application is working or not
